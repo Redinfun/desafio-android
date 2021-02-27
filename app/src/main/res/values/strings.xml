@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">desafio_phi</string>
+
+    <string name="statement">Extrato</string>
+    <string name="pix">Pix</string>
+    <string name="share">Compartilhar</string>
+    <string name="bank_institute">Instituição bancária</string>
+    <string name="receiver">Recebedor</string>
+    <string name="value">Valor</string>
+    <string name="transaction_type">Tipo de movimentação</string>
+    <string name="CheckCopy">Comprovante</string>
+    <string name="user_transactions">Suas Movimentações</string>
+    <string name="sended_transaction">Tranferência enviada</string>
+    <string name="bank_placeholder">Banco Phi</string>
+    <string name="date_time">Data/Hora</string>
+    <string name="auth">Autenticação</string>
+    <string name="transaction_info_error">Erro ao obter dados da transação</string>
 </resources>
